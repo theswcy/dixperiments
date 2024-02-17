@@ -3,7 +3,7 @@
 - In your browser, on the discord website ( or Discord **PTB** / **Canary** clients ).
   - `ctrl shift i` on Windows to open the **console**.
   - `command option k` on MacOS to open the  **console**.
-- Copy the code located in the `script.js` file, then paste it into the **console**.
+- Copy the code located in the `script.js` file and paste it into the **console**.
 - Press **enter** and close the **console**.
 
 ## Note:
